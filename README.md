@@ -4,9 +4,7 @@ I’m a **first-semester** computer science student based in Austria, currently 
 At this stage, my focus is on building a strong foundation through:
 
 - Learning programming basics and problem-solving
-
 - Understanding how software works at a fundamental level
-
 - Practicing with small exercises, coursework, and beginner projects
 
 This GitHub profile serves as a record of my learning journey. You’ll find early-stage projects, experiments, and code written as I continue to develop my skills over time.
