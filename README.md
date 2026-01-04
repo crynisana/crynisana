@@ -1,16 +1,26 @@
-## Hi there 👋
+# **Hi, I’m Nisa!**
 
-<!--
-**crynisana/crynisana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **first-semester** computer science student based in Austria, currently learning the fundamentals of programming and core computer science concepts.
+At this stage, my focus is on building a strong foundation through:
 
-Here are some ideas to get you started:
+- Learning programming basics and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Understanding how software works at a fundamental level
+
+- Practicing with small exercises, coursework, and beginner projects
+
+This GitHub profile serves as a record of my learning journey. You’ll find early-stage projects, experiments, and code written as I continue to develop my skills over time.
+I’m approaching computer science with curiosity, consistency, and a long-term mindset, aiming to steadily improve and learn best practices as I progress.
+
+
+# 💻 Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=crynisana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=crynisana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crynisana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=crynisana&icon=9&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
